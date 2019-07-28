@@ -1,0 +1,17 @@
+Links for Visual Paradigm for UML 10.0 sp1
+Windows 32bit 209MB
+Download (http://www.visual-paradigm.com/downloads/vpuml10.0/Visual_Paradigm_for_UML_Windows.exe)
+Windows 64bit 209MB
+Download (http://www.visual-paradigm.com/downloads/vpuml10.0/Visual_Paradigm_for_UML_Windows_64bit.exe)
+Linux 32bit 192MB
+Download (http://www.visual-paradigm.com/downloads/vpuml10.0/Visual_Paradigm_for_UML_Linux.sh)
+Linux 64bit 190MB
+Download (http://www.visual-paradigm.com/downloads/vpuml10.0/Visual_Paradigm_for_UML_Linux_64bit.sh)
+Mac OS X 176MB
+Download (http://www.visual-paradigm.com/downloads/vpuml10.0/Visual_Paradigm_for_UML_MacOSX.dmg)
+Unix 172MB
+Download (http://www.visual-paradigm.com/downloads/vpuml10.0/Visual_Paradigm_for_UML_Unix.sh
+
+安装完毕后，将破解文件“vp-uml-ee.zvpl”复制到“Visual Paradigm for UML 10.0.exe”文件所在 的目录，然后再运行程序。 
+我安装完程序后，发现“Visual Paradigm for UML 10.0.exe”文件在目录“D:\Program Files\Visual Paradigm for UML 10.0\bin”下，
+所以我将文件“vp-uml-ee.zvpl”复制到目录“D:\Program Files \Visual Paradigm for UML 10.0\bin”下，然后再运行程序。
